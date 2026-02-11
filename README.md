@@ -56,13 +56,14 @@ Minha meta é transformar desafios lógicos em **soluções funcionais**, buscan
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade no GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazras-projects.vercel.app/api?username=Joaovictor-06&show_icons=true&theme=tokyonight&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazras-projects.vercel.app/api/top-langs/?username=Joaovictor-06&layout=compact&theme=tokyonight" />
-</p>
+Para manter a transparência sobre meu progresso, foco na qualidade dos meus repositórios de estudo. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução!
+
+> **Objetivos para 2024/2025:**
+> * 🟢 Finalizar 3 projetos Full Stack completos.
+> * 🟡 Contribuir para meu primeiro projeto Open Source.
+> * ⚪ Obter certificação em Cloud Fundamentals.
 
 ---
 
